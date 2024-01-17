@@ -1,4 +1,4 @@
-# hey, i'm patrick :) 
+# 👋 hey, i'm patrick :) 
 <p><i>studying computer science @ uwaterloo</i></p>
 
 <i>aspriring software engineer</i>
